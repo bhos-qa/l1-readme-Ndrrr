@@ -1,7 +1,7 @@
 name: Test README.md file
 
 on:
-  pull_requests:
+  pull_request:
     branches:
       - develop
 
